@@ -231,7 +231,7 @@ footer {
     align-items: center;
     line-height: 0;
 }
-
+/* tess */
 @keyframes rotating {
     from    {
         transform: rotate(0);
